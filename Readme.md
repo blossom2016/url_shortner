@@ -85,7 +85,7 @@ User is not authorized to perform: dynamodb:GetItem on resource: arn:aws:dynamod
       "dynamodb:DeleteItem",
       "dynamodb:DescribeTable"
     ],
-    "Resource": "arn:aws:dynamodb:us-east-2:430177691175:table/url_shortner"
+    "Resource": "arn:aws:dynamodb:<region>:<account_number>:table/url_shortner"
   }
   ```
 - Attach this policy to the Lambda execution role in the IAM Console.

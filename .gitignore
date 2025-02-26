@@ -1,0 +1,22 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.mkv
+*.webm
+
+# Audio files
+*.mp3
+*.wav
+*.ogg
+*.m4a
+*.wma
+*.aac
+*.flac
+
+# Video/Audio project files
+*.prproj
+*.aep
+*.fcpx
